@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\IT105L\Prelim Exam\Prelim Exam\MAPOTE_JAYVEE_IT105L_C11\MAPOTE_JAYVEE_IT105L_C11\bin\Debug\MAPOTE_JAYVEE_IT105L_C11.exe.config
+C:\Users\admin\Desktop\IT105L\Prelim Exam\Prelim Exam\MAPOTE_JAYVEE_IT105L_C11\MAPOTE_JAYVEE_IT105L_C11\bin\Debug\MAPOTE_JAYVEE_IT105L_C11.exe
+C:\Users\admin\Desktop\IT105L\Prelim Exam\Prelim Exam\MAPOTE_JAYVEE_IT105L_C11\MAPOTE_JAYVEE_IT105L_C11\bin\Debug\MAPOTE_JAYVEE_IT105L_C11.pdb
+C:\Users\admin\Desktop\IT105L\Prelim Exam\Prelim Exam\MAPOTE_JAYVEE_IT105L_C11\MAPOTE_JAYVEE_IT105L_C11\obj\Debug\MAPOTE_JAYVEE_IT105L_C11.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\IT105L\Prelim Exam\Prelim Exam\MAPOTE_JAYVEE_IT105L_C11\MAPOTE_JAYVEE_IT105L_C11\obj\Debug\MAPOTE_JAYVEE_IT105L_C11.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\IT105L\Prelim Exam\Prelim Exam\MAPOTE_JAYVEE_IT105L_C11\MAPOTE_JAYVEE_IT105L_C11\obj\Debug\MAPOTE_JAYVEE_IT105L_C11.formPrelimExam.resources
+C:\Users\admin\Desktop\IT105L\Prelim Exam\Prelim Exam\MAPOTE_JAYVEE_IT105L_C11\MAPOTE_JAYVEE_IT105L_C11\obj\Debug\MAPOTE_JAYVEE_IT105L_C11.Properties.Resources.resources
+C:\Users\admin\Desktop\IT105L\Prelim Exam\Prelim Exam\MAPOTE_JAYVEE_IT105L_C11\MAPOTE_JAYVEE_IT105L_C11\obj\Debug\MAPOTE_JAYVEE_IT105L_C11.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\IT105L\Prelim Exam\Prelim Exam\MAPOTE_JAYVEE_IT105L_C11\MAPOTE_JAYVEE_IT105L_C11\obj\Debug\MAPOTE_JAYVEE_IT105L_C11.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\IT105L\Prelim Exam\Prelim Exam\MAPOTE_JAYVEE_IT105L_C11\MAPOTE_JAYVEE_IT105L_C11\obj\Debug\MAPOTE_JAYVEE_IT105L_C11.exe
+C:\Users\admin\Desktop\IT105L\Prelim Exam\Prelim Exam\MAPOTE_JAYVEE_IT105L_C11\MAPOTE_JAYVEE_IT105L_C11\obj\Debug\MAPOTE_JAYVEE_IT105L_C11.pdb
